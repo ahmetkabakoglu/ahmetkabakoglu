@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ahmet Kabakoğlu</h1>
 <h3 align="center">A passionate Full Stack Developer from Türkiye</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmetkabakoglu&label=Profile%20views&color=0e75b6&style=flat" alt="ahmetkabakoglu" /> </p>
-
-<p align="left"> <a href="https://twitter.com/ahmetcodes" target="blank"><img src="https://img.shields.io/twitter/follow/ahmetcodes?logo=twitter&style=for-the-badge" alt="ahmetcodes" /></a> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmetkabakoglu&label=Profile%20views&color=900c3f&style=flat" alt="ahmetkabakoglu" /> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
